@@ -1,0 +1,2 @@
+# mohamed
+-pkg install
